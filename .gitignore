@@ -161,3 +161,8 @@ cython_debug/
 *.zip
 
 .idea
+
+images_lab/*.jpg
+images_lab/*.png
+
+secuencia_plaza/*.jpg
