@@ -162,7 +162,5 @@ cython_debug/
 
 .idea
 
-images_lab/*.jpg
-images_lab/*.png
-
-secuencia_plaza/*.jpg
+lab3/images_lab/*
+lab3/secuencia_plaza/*
